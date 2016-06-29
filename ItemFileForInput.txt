@@ -1,0 +1,5 @@
+10001 5000 15.00 .20 500 Count 24 Pound White Paper 050
+10002 5020 05.00 .25 10 pack 3 1/2 Floppy Disks     125
+10003 5005 35.50 .15 Black Ink Cartridge (HP 24)    023
+10004 5001 02.00 .22 100 Pack Black Ball Point Pen  160
+10005 5001 07.00 .23 20 x 36 Desk Blotter           017
